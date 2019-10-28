@@ -9,4 +9,6 @@
 * [消息发送](xiao-xi-fa-song.md)
   * [消息定义](xiao-xi-fa-song/xiao-xi-ding-yi.md)
   * [接口调用](xiao-xi-fa-song/jie-kou-diao-yong.md)
+* [一级菜单](yi-ji-cai-dan.md)
+  * [二级菜单](er-ji-cai-dan.md)
 
