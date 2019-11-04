@@ -1,5 +1,3 @@
-# Summary
-
 * [轻蜂一站式协作平台集成手册](qing-feng-yi-zhan-shi-xie-zuo-ping-tai-ji-cheng-shou-ce.md)
   * [数据格式](qing-feng-yi-zhan-shi-xie-zuo-ping-tai-ji-cheng-shou-ce/shu-ju-ge-shi.md)
     * [格式说明](ge-shi-shuo-ming.md)
