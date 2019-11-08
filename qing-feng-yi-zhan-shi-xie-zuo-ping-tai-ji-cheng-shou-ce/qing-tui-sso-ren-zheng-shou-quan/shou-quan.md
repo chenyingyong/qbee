@@ -4,13 +4,28 @@
 
 **获取当前用户基本信息**
 
-|  |  | **URI：/sysmgr/user/info** |
+| URI：/sysmgr/user/info |
+| :--- |
+
+
+| 请求地址：https://qaqtqbee.qingtui.cn/auth/api/sysmgr/user/info |
+| :--- |
+| 请求方式：get |
+| 请求头（**Header**） |
+| Authorization:Bear token |
+| 请求参数（**Request-Body**） |
+
+| 参数：无 |
+| :--- |
+
+
+| code | Sting | 状态码 |
 | :--- | :--- | :--- |
-|  |  | **请求地址：** |
-|  |  | **请求方式：get** |
-|  |  | token放在request header内 |
-|  |  | **data内容如下：** |
+| code | String | 状态码 |
+| data | Object | 数据 |
+
 | **id** | **Sting** | **用户id** |
+| :--- | :--- | :--- |
 | **name** | **Sting** | **人员名称** |
 | **profile** | **Sting** | **头像** |
 | **mobile** | **Sting** | **移动电话** |
